@@ -1,5 +1,5 @@
 - Html
-- Css
+- Cascading style sheets
 - Js
 - PHP
 - Laravel
