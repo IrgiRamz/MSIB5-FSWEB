@@ -1,7 +1,7 @@
 - Html
 - Css
 - Js
-- PHP
+- Codeigneter
 - Laravel
 - Rest API
 - MYSQL
