@@ -3,3 +3,5 @@
 - Js
 - PHP
 - Laravel
+- Rest API
+- MYSQL
