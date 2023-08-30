@@ -2,4 +2,6 @@
 - Cascading style sheets
 - Js
 - PHP
+CRUD
+Login
 - Laravel
